@@ -36,7 +36,7 @@
 				&copy; Amazon Web Services Ltd
 			</span>
 			<span data-role="rights">
-				The bird descriptions were provided by www.allaboutbirds.org, &copy; Cornell Lab of Ornithology
+				The bird descriptions were provided by www.allaboutbirds.org, &copy; Cornell Lab of Ornithologyblablabla
 			</span>
 		</footer>
 		<script src="scripts/jquery-3.6.0.min.js"></script>
